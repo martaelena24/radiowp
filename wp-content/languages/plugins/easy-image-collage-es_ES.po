@@ -1,0 +1,430 @@
+# Translation of Plugins - Easy Image Collage - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Easy Image Collage - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-24 14:18:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Easy Image Collage - Stable (latest release)\n"
+
+#: helpers/vafpress/vafpress_menu_options.php:489
+msgid "Public CSS"
+msgstr "CSS público"
+
+#: helpers/vafpress/vafpress_menu_options.php:482
+msgid "Custom Code"
+msgstr "Código personalizado"
+
+#: helpers/vafpress/vafpress_menu_options.php:444
+msgid "Custom Links"
+msgstr "Enlaces personalizados"
+
+#: helpers/vafpress/vafpress_menu_options.php:435
+msgid "You can use the following placeholders:"
+msgstr "Puedes utilizar estos marcadores de posición:"
+
+#: helpers/vafpress/vafpress_menu_options.php:434
+msgid "Description"
+msgstr "Descripción"
+
+#: helpers/vafpress/vafpress_menu_options.php:423
+msgid "Large"
+msgstr "Grande"
+
+#: helpers/vafpress/vafpress_menu_options.php:415
+msgid "Button Size"
+msgstr "Tamaño del botón"
+
+#: helpers/vafpress/vafpress_menu_options.php:404
+msgid "Round"
+msgstr "Redondeado"
+
+#: helpers/vafpress/vafpress_menu_options.php:400
+msgid "White"
+msgstr "Blanco"
+
+#: helpers/vafpress/vafpress_menu_options.php:396
+msgid "Red"
+msgstr "Rojo"
+
+#: helpers/vafpress/vafpress_menu_options.php:392
+#: helpers/vafpress/vafpress_menu_options.php:419
+msgid "Default"
+msgstr "Por defecto"
+
+#: helpers/vafpress/vafpress_menu_options.php:388
+msgid "Button Style"
+msgstr "Estilo del botón"
+
+#: helpers/vafpress/vafpress_menu_options.php:377
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: helpers/vafpress/vafpress_menu_options.php:373
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: helpers/vafpress/vafpress_menu_options.php:369
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: helpers/vafpress/vafpress_menu_options.php:365
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: helpers/vafpress/vafpress_menu_options.php:361
+msgid "Button Location"
+msgstr "Ubicación del botón"
+
+#: helpers/vafpress/vafpress_menu_options.php:355
+msgid "Show a Pinterest button when hovering over images."
+msgstr "Muestra un botón de Pinterest cuando se pasa el cursor sobre las imágenes."
+
+#: helpers/vafpress/vafpress_menu_options.php:354
+msgid "Pinterest on Hover"
+msgstr "Pinterest al pasar el cursor"
+
+#: helpers/vafpress/vafpress_menu_options.php:348
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: helpers/vafpress/vafpress_menu_options.php:342
+msgid "Social Media"
+msgstr "Medios sociales"
+
+#: helpers/vafpress/vafpress_menu_options.php:332
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: helpers/vafpress/vafpress_menu_options.php:325
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: helpers/vafpress/vafpress_menu_options.php:316
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: helpers/vafpress/vafpress_menu_options.php:305
+msgid "Right"
+msgstr "Derecha"
+
+#: helpers/vafpress/vafpress_menu_options.php:301
+msgid "Center"
+msgstr "Centro"
+
+#: helpers/vafpress/vafpress_menu_options.php:297
+msgid "Left"
+msgstr "Izquierda"
+
+#: helpers/vafpress/vafpress_menu_options.php:293
+msgid "Text Alignment"
+msgstr "Alineación del texto"
+
+#: helpers/vafpress/vafpress_menu_options.php:282
+msgid "Bottom"
+msgstr "Inferior"
+
+#: helpers/vafpress/vafpress_menu_options.php:278
+msgid "Top"
+msgstr "Superior"
+
+#: helpers/vafpress/vafpress_menu_options.php:274
+msgid "Location"
+msgstr "Ubicación"
+
+#: helpers/vafpress/vafpress_menu_options.php:268
+msgid "Show on Hover Only"
+msgstr "Mostrar solo al pasar el cursor"
+
+#: helpers/vafpress/vafpress_menu_options.php:262
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: helpers/vafpress/vafpress_menu_options.php:250
+msgid "Image alt"
+msgstr "Atributo «alt» de la imagen"
+
+#: helpers/vafpress/vafpress_menu_options.php:246
+msgid "Image caption"
+msgstr "Leyenda de la imagen"
+
+#: helpers/vafpress/vafpress_menu_options.php:242
+msgid "Image title"
+msgstr "Título de la imagen"
+
+#: helpers/vafpress/vafpress_menu_options.php:238
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: helpers/vafpress/vafpress_menu_options.php:234
+msgid "Automatically fill caption when adding an image to the grid."
+msgstr "Completa la leyenda automáticamente cuando se añade una imagen a la cuadrícula."
+
+#: helpers/vafpress/vafpress_menu_options.php:233
+msgid "Autofill Captions"
+msgstr "Autocompletar leyendas"
+
+#: helpers/vafpress/vafpress_menu_options.php:218
+#: helpers/vafpress/vafpress_menu_options.php:452
+msgid "These features are only available in "
+msgstr "Estas características solo están disponibles en"
+
+#: helpers/vafpress/vafpress_menu_options.php:201
+msgid "Rel value of the lightbox link."
+msgstr "Valor «rel» del enlace de la caja de luz."
+
+#: helpers/vafpress/vafpress_menu_options.php:200
+msgid "Link rel"
+msgstr "«rel» del enlace"
+
+#: helpers/vafpress/vafpress_menu_options.php:194
+msgid "Class to be added to the lightbox link."
+msgstr "Clase a añadir al enlace de la caja de luz."
+
+#: helpers/vafpress/vafpress_menu_options.php:193
+msgid "Link class"
+msgstr "Clase del enlace"
+
+#: helpers/vafpress/vafpress_menu_options.php:187
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: helpers/vafpress/vafpress_menu_options.php:176
+msgid "Open clickable images in new tab."
+msgstr "Abrir las imágenes en una nueva pestaña al hacer clic."
+
+#: helpers/vafpress/vafpress_menu_options.php:175
+msgid "Open in new tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: helpers/vafpress/vafpress_menu_options.php:169
+msgid "Best used in combination with a lightbox plugin."
+msgstr "Se utiliza mejor en combinación con un plugin de caja de luz."
+
+#: helpers/vafpress/vafpress_menu_options.php:168
+msgid "Clickable Images"
+msgstr "Imágenes para hacer clic"
+
+#: helpers/vafpress/vafpress_menu_options.php:156
+msgid "Lightbox"
+msgstr "Caja de luz"
+
+#: helpers/vafpress/vafpress_menu_options.php:147
+msgid "Prevent captions from blocking the image by hiding them on mobile."
+msgstr "Evita que las leyendas bloqueen la imagen ocultándolas en móviles."
+
+#: helpers/vafpress/vafpress_menu_options.php:146
+msgid "Hide on mobile"
+msgstr "Ocultar en dispositivos móviles"
+
+#: helpers/vafpress/vafpress_menu_options.php:140
+#: helpers/vafpress/vafpress_menu_options.php:210
+msgid "Captions"
+msgstr "Leyendas"
+
+#: helpers/vafpress/vafpress_menu_options.php:133
+msgid "Prevent a collage from becoming to small by having regular images on mobile. Important: this will only work with \"Actual Images\" display mode."
+msgstr "Evita que un collage se vuelva pequeño al tener imágenes normales en móviles. Importante: esto solo funcionará con el modo de visualización «Imágenes reales»."
+
+#: helpers/vafpress/vafpress_menu_options.php:132
+msgid "Show regular images on mobile"
+msgstr "Mostrar imágenes normales en móviles"
+
+#: helpers/vafpress/vafpress_menu_options.php:123
+msgid "The width of the collage at which will be switched to the mobile version. Make sure it's not larger than the initial width."
+msgstr "La anchura del collage a la que se cambiará en la versión móvil. Asegúrate de que no sea más grande que el ancho inicial."
+
+#: helpers/vafpress/vafpress_menu_options.php:122
+msgid "Responsive Breakpoint"
+msgstr "Punto de ruptura adaptable"
+
+#: helpers/vafpress/vafpress_menu_options.php:116
+#: helpers/vafpress/vafpress_menu_options.php:162
+#: helpers/vafpress/vafpress_menu_options.php:227
+msgid "General"
+msgstr "General"
+
+#: helpers/vafpress/vafpress_menu_options.php:110
+msgid "Reponsive Layout"
+msgstr "Diseño adaptable"
+
+#: helpers/vafpress/vafpress_menu_options.php:100
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: helpers/vafpress/vafpress_menu_options.php:91
+msgid "Border Width"
+msgstr "Anchura del borde"
+
+#: helpers/vafpress/vafpress_menu_options.php:82
+msgid "Grid Ratio"
+msgstr "Relación de cuadrícula"
+
+#: helpers/vafpress/vafpress_menu_options.php:73
+msgid "Grid Width"
+msgstr "Anchura de la cuadrícula"
+
+#: helpers/vafpress/vafpress_menu_options.php:50
+msgid "Grid Alignment"
+msgstr "Alineación de la cuadrícula"
+
+#: helpers/vafpress/vafpress_menu_options.php:44
+#: helpers/vafpress/vafpress_menu_options.php:461
+msgid "Defaults"
+msgstr "Valores por defecto"
+
+#: helpers/vafpress/vafpress_menu_options.php:32
+msgid "Background Images (Legacy Mode)"
+msgstr "Imágenes de fondo (modo heredado)"
+
+#: helpers/vafpress/vafpress_menu_options.php:28
+msgid "Actual Images"
+msgstr "Imágenes actuales"
+
+#: helpers/vafpress/vafpress_menu_options.php:24
+msgid "Display Method"
+msgstr "Método de visualización"
+
+#: helpers/vafpress/vafpress_menu_options.php:18
+msgid "Display"
+msgstr "Visualización"
+
+#: helpers/vafpress/vafpress_menu_options.php:12
+msgid "Default Style"
+msgstr "Estilo por defecto"
+
+#: helpers/shortcode_button.php:16
+msgid "Add Image Collage"
+msgstr "Añadir collage de imágenes"
+
+#: helpers/privacy.php:16
+msgid "Easy Image Collage does not collect any data. When enabling the Pinterest Pin-It button their external code will be embedded. You will be agreeing to their Terms of Use and Privacy Policy."
+msgstr "«Easy Image Collage» no recopila ningún dato. Al activar el botón «Pin-It» de Pinterest, se incrustará su código externo. Al hacerlo, estarás de acuerdo con sus términos de uso y política de privacidad."
+
+#: helpers/plugin_action_link.php:12
+#: helpers/vafpress/vafpress_menu_options.php:7
+msgid "Settings"
+msgstr "Ajustes"
+
+#: helpers/modal.php:85 helpers/modal.php:101 helpers/modal.php:118
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: helpers/modal.php:72
+msgid "Show Image Size"
+msgstr "Mostrar el tamaño de la imagen"
+
+#: helpers/modal.php:71
+msgid "Adjust Borders"
+msgstr "Ajustar los bordes"
+
+#: helpers/modal.php:67
+msgid "Borders"
+msgstr "Bordes"
+
+#: helpers/modal.php:62 helpers/modal.php:63
+msgid "Float"
+msgstr "Flotante"
+
+#: helpers/modal.php:61
+msgid "Text around"
+msgstr "Texto alrededor"
+
+#: helpers/modal.php:59 helpers/modal.php:63
+#: helpers/vafpress/vafpress_menu_options.php:62
+msgid "right"
+msgstr "derecha"
+
+#: helpers/modal.php:58 helpers/vafpress/vafpress_menu_options.php:58
+msgid "center"
+msgstr "centro"
+
+#: helpers/modal.php:57 helpers/modal.php:62
+#: helpers/vafpress/vafpress_menu_options.php:54
+msgid "left"
+msgstr "izquierda"
+
+#: helpers/modal.php:57 helpers/modal.php:58 helpers/modal.php:59
+#: helpers/vafpress/vafpress_menu_options.php:54
+#: helpers/vafpress/vafpress_menu_options.php:58
+#: helpers/vafpress/vafpress_menu_options.php:62
+msgid "Align"
+msgstr "Alinear"
+
+#: helpers/modal.php:56
+msgid "Text above and below"
+msgstr "Texto arriba y abajo"
+
+#: helpers/modal.php:46
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: helpers/modal.php:43
+msgid "Finish"
+msgstr "Finalizar"
+
+#: helpers/modal.php:42
+msgid "Change layout"
+msgstr "Cambiar el diseño"
+
+#: helpers/modal.php:32 helpers/modal.php:73 helpers/modal.php:86
+#: helpers/modal.php:102 helpers/modal.php:119
+msgid "This feature is only available in"
+msgstr "Esta característica solo está disponible en "
+
+#: helpers/modal.php:31
+msgid "Back"
+msgstr "Volver"
+
+#: helpers/modal.php:9
+msgid "Premium Only"
+msgstr "Solo premium"
+
+#: helpers/modal.php:8
+msgid "Create Your Own Layout"
+msgstr "Crear tu propio diseño"
+
+#: helpers/modal.php:3
+msgid "Choose layout"
+msgstr "Elegir el diseño"
+
+#: helpers/assets.php:67 helpers/vafpress/vafpress_menu_options.php:473
+msgid "Use Nofollow"
+msgstr "Usar nofollow"
+
+#: helpers/assets.php:66 helpers/vafpress/vafpress_menu_options.php:467
+msgid "Open in New Tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: helpers/ajax.php:89
+msgid "No images in this collage yet"
+msgstr "Aún no hay imágenes en este collage"
+
+#: helpers/ajax.php:71
+msgid "remove"
+msgstr "eliminar"
+
+#. Author URI of the plugin
+#: easy-image-collage.php
+msgid "https://bootstrapped.ventures"
+msgstr "https://bootstrapped.ventures"
+
+#. Author of the plugin
+#: easy-image-collage.php
+msgid "Bootstrapped Ventures"
+msgstr "Bootstrapped Ventures"
+
+#. Description of the plugin
+#: easy-image-collage.php
+msgid "Create beautiful responsive image collages for all your posts and pages"
+msgstr "Crea bonitos collages adaptables de imágenes para todas tus entradas y páginas"
+
+#. Plugin Name of the plugin
+#: easy-image-collage.php assets/js/blocks/collage/index.js:18
+#: dist/blocks.js:109
+msgid "Easy Image Collage"
+msgstr "Easy Image Collage"
